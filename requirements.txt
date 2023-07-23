@@ -1,0 +1,10 @@
+Django~=3.2.1
+django-allauth~=0.41.0
+django-widget-tweaks~=1.4.8
+dj-database-url
+dj-static
+python-decouple
+django-environ
+gunicorn
+psycopg2-binary
+whitenoise
